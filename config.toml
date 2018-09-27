@@ -1,0 +1,4 @@
+baseURL = "http://alexander.yarkosky.xyz/"
+languageCode = "en-us"
+title = "Alex Yarkosky"
+theme = "hyde-hyde"

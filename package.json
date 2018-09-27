@@ -1,0 +1,19 @@
+{
+  "name": "alexander.yarkosky.xyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allegheny-Computer-Science-480-F2018/alexander.yarkosky.xyz.git"
+  },
+  "author": "Alex Yarkosky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allegheny-Computer-Science-480-F2018/alexander.yarkosky.xyz/issues"
+  },
+  "homepage": "https://github.com/Allegheny-Computer-Science-480-F2018/alexander.yarkosky.xyz#readme"
+}
