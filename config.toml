@@ -2,8 +2,6 @@ baseURL = "http://alexander.yarkosky.xyz/"
 languageCode = "en-us"
 title = "Alex Yarkosky"
 theme = "hyde-hyde"
-[params.authorimage]
-	authorimage = "Author Image"
 [params.description]
 	description = "The hub to find out all about me, what I have done, and what I am doing."
 [params.social]
