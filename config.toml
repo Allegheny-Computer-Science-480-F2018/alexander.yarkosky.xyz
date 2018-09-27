@@ -1,6 +1,7 @@
 baseURL = "http://alexander.yarkosky.xyz/"
 languageCode = "en-us"
 title = "Alex Yarkosky"
+description = "The hub to find out all about me, what I have done, and what I am doing."
 theme = "hyde-hyde"
 [params.social]
 	github = "Alex-Yarkosky"
