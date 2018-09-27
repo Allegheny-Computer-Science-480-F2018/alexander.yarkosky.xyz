@@ -4,13 +4,6 @@ title = "Alex Yarkosky"
 theme = "hyde-hyde"
 [params.description]
 	description = "The hub to find out all about me, what I have done, and what I am doing."
-[params.menu]
-	[[main menu]]
-		identifier = "posts"
-		name = "Posts"
-		pre = "<i class='All About'></i>"
-		url = "/about/"
-		weight = -100
 [params.social]
 	github = "Alex-Yarkosky"
 	linkedin = "alexander-yarkosky"
