@@ -4,7 +4,7 @@ title = "Alex Yarkosky"
 theme = "hyde-hyde"
 [params.description]
 	description = "The hub to find out all about me, what I have done, and what I am doing."
-[menu]
+[params.menu]
 	[[main menu]]
 		identifier = "posts"
 		name = "Posts"
